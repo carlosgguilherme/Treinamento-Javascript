@@ -2,17 +2,17 @@
 
 <h3>TRATAMENTO DE DADOS</h3>{
 
-<p>(n) É oque eu quero converter.
-String para número 
-Number.parseInt(n) para número inteiro 
-Number.parseFloat(n) para número real (com .)
-Number(n)
+<p>(n) É oque eu quero converter.</p>
+`String para número`
+`Number.parseInt(n) para número inteiro `
+`Number.parseFloat(n) para número real (com .)`
+`Number(n)`
 
 <strong>Caso específico use Int ou Float, caso o javascript decida use o Number</strong>
 <br>
-Número para string
-String(n)
-n.toString()
+`Número para string`
+`String(n)`
+`n.toString()`
 
 Usar TemplateStrings com `` $(n), ou seja esse exemplo 
 var s = 'Javascript'
@@ -25,15 +25,13 @@ Pode ser usado atributos para formatar strings
 n.length // quantos caracteres a string tem
 n.toUpperCase() // tudo para 'MAIUSCULAS'
 n.toLowerCase() // tudo para 'minúsculas'
-<br>
+
 Formatar números 
 
 var n1 = 1543.5
-<br>
+
 n1.toFixed(2) // para ter 2 casa depois do .
-<br>
 replace('.',',') // para ter vírgula no lugar do ponto
-<br>
 exemplo: n1.toFixed(2).replace('.',',')
 
 para converter em real linha de comando
