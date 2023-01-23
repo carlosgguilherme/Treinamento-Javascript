@@ -87,7 +87,7 @@ Exemplos:
 
 > (5 * 2) + (4 / 2) = 12
 
-<strong>ordem de Precedência
+<strong>ordem de Precedência:
 () > ** > * = / = % > + = - </strong>
 <hr>
 
@@ -147,7 +147,7 @@ Exemplos:
 
 > 4 != 4 = false `Diferente`
 
-<hr>
+<strong>Exemplos</strong>
 
 > preço >= 200.50 `o preço é maior ou igual a 200.50?`
 
@@ -157,6 +157,32 @@ Exemplos:
 
 > n1 != n2 `o primeiro número é diferente do segundo?`
 
+`Javascript não verifica o tipo e sim o valor ` `== mesmo valor` `=== mesmo valor e tipo`
+<hr>
+<h4>Lógicos</h4>
 
+> ! `Negação` `NÂO`
+
+> && `Conjunção` `E`
+
+> || `Disjunção` `OU`
+
+Exemplos:
+
+> idade >= 15 && idade <= 17 `a idade está entre 15 e 17 anos?`
+
+>estado == 'RJ' || estado == 'SP' `o estado é RJ ou SP?`
+
+>salário > 1500 && sexo != 'M' `o salário é acima de 1500 e não é homem?`
+
+<strong>ordem de Precedência:
+! > && > || </strong>
+
+<h4>Térnario</h4>
+
+> ?
+
+> :
+<hr>
 }
 
