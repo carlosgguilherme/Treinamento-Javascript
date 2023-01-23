@@ -9,7 +9,7 @@ Number.parseInt(n) para número inteiro
 Number.parseFloat(n) para número real (com .)
 Number(n)
 
---Caso específico use Int ou Float, caso o javascript decida use o Number--
+<strong>Caso específico use Int ou Float, caso o javascript decida use o Number</strong>
 
 
 Número para string
