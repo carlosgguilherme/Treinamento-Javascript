@@ -2,7 +2,8 @@
 
 <h3>TRATAMENTO DE DADOS</h3>{
 
-<p>(n) É oque eu quero converter.</p>
+<p>(n) É oque eu quero converter.</p> 
+<br>
 `String para número`
 `Number.parseInt(n) para número inteiro `
 `Number.parseFloat(n) para número real (com .)`
