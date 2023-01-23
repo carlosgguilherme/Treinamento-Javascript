@@ -18,8 +18,7 @@
 `n.toString()`
 
 Usar TemplateStrings com `` $(n), ou seja esse exemplo: 
-> var s = 'Javascript'
->'`Estou aprendendo ${s}``
+> var s = 'Javascript' | `Estou aprendendo ${s}`
 
 ou usar concatenação, mas sempre interpolar.
 
