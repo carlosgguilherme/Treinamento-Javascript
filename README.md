@@ -19,23 +19,25 @@
 
 Usar TemplateStrings com `` $(n), ou seja esse exemplo: 
 > var s = 'Javascript'
->`Estou aprendendo ${s}`
+>'`Estou aprendendo ${s}``
 
 ou usar concatenação, mas sempre interpolar.
 
 Pode ser usado atributos para formatar strings 
 
-n.length  `quantos caracteres a string tem`
-n.toUpperCase()  `tudo para 'MAIUSCULAS'`
-n.toLowerCase()  `tudo para 'minúsculas'`
+>n.length  `quantos caracteres a string tem`
+
+>n.toUpperCase()  `tudo para 'MAIUSCULAS'`
+
+>n.toLowerCase()  `tudo para 'minúsculas'`
 
 Formatar números 
 
 >var n1 = 1543.5
 
->n1.toFixed(2)  `para ter 2 casa depois do .`
+>n1.toFixed(2) `para ter 2 casa depois do .`
 
->replace('.',',')  `para ter vírgula no lugar do ponto`
+>replace('.',',') `para ter vírgula no lugar do ponto`
 
 exemplo: 
 
