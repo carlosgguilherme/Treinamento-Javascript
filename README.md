@@ -47,6 +47,12 @@ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 }
 <h3>OPERADORES</h3>{
 
+<strong>Aritméticos</strong>
+<strong>Atribuição</strong>
+<strong>Relacionais</strong>
+<strong>Lógicos</strong>
+<strong>Ternários</strong>
+
 >5 + 2 = 7  `soma dos números`
 
 >5 - 2 = 3  `subtração dos números`
