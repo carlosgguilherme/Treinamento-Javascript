@@ -45,6 +45,7 @@ exemplo:
 para converter em real linha de comando
 n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 }
+
 <h3>OPERADORES</h3>{
 
 <strong>Aritméticos,
@@ -52,6 +53,8 @@ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
     Relacionais,
     Lógicos,
     Ternários</strong>
+    <hr>
+
 
 <h4>Aritméticos</h4>
 
@@ -86,6 +89,8 @@ Exemplos:
 
 <strong>ordem de Precedência
 () > ** > * = / = % > + = - </strong>
+<hr>
+
 
 <h4>Atribuições Simples:</h4>
 
@@ -125,6 +130,8 @@ Exemplos:
 >n++ `Somar 1`
 
 >n-- `Subtrair 1`
+
+<hr>
 
 <h4>Relacionais</h4>
 
