@@ -52,18 +52,18 @@ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 <strong>Tomar cuidado com os operadores, isso porque 5 + 3 / 2, ele faz primeiro o 3 / 2 logo 5 + 3 / 2 = 6.5, Use () para alterar a ordem de procedencia</strong>
 
 exemplos: 
-> 5 + 2 = 7
-
-> 5 - 2 = 3
-
+> 5 + 2 = 7 
+<br>
+> 5 - 2 = 3 
+<br>
 > 5 * 2 = 10
-
+<br>
 > 5 / 2 = 2.5
-
+<br>
 > 5 % 2 = 1
-
+<br>
 > 5 ** 2 = 25
-
+<br>
 > (5 * 2) + (4 / 2) = 12
 
 }
