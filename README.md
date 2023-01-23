@@ -1,17 +1,15 @@
 # Treinamento-javascript
 
-<h1>TRATAMENTO DE DADOS</h1>{
+<h3>TRATAMENTO DE DADOS</h3>{
 
-(n) É oque eu quero converter.
-
+<p>(n) É oque eu quero converter.
 String para número 
 Number.parseInt(n) para número inteiro 
 Number.parseFloat(n) para número real (com .)
 Number(n)
 
 <strong>Caso específico use Int ou Float, caso o javascript decida use o Number</strong>
-
-
+<br>
 Número para string
 String(n)
 n.toString()
@@ -27,8 +25,7 @@ Pode ser usado atributos para formatar strings
 n.length // quantos caracteres a string tem
 n.toUpperCase() // tudo para 'MAIUSCULAS'
 n.toLowerCase() // tudo para 'minúsculas'
-
-
+<br>
 Formatar números 
 
 var n1 = 1543.5
