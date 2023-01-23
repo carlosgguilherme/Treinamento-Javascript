@@ -53,17 +53,17 @@ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 
 exemplos: 
 > 5 + 2 = 7 
-<br>
+
 > 5 - 2 = 3 
-<br>
+
 > 5 * 2 = 10
-<br>
+
 > 5 / 2 = 2.5
-<br>
+
 > 5 % 2 = 1
-<br>
+
 > 5 ** 2 = 25
-<br>
+
 > (5 * 2) + (4 / 2) = 12
 
 }
