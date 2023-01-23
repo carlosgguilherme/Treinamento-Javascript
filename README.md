@@ -78,4 +78,45 @@ Exemplos:
 
 <strong>ordem de Precedência
 () > ** > * = / = % > + = - </strong>
+
+<h4>Atribuições Simples:</h4>
+
+> a = 5 + 3 = 8
+
+> b = a % 5 = 3
+
+> c = 5 * b ** 2 = 45
+
+> d = 10 - a / 2 = 6
+
+> e = 6 * 2 / d = 2
+
+> f = b % e + 4 / e = 3
+
+<h4>Auto-atribuições - Operadores de atribuição: </h4>
+
+> n = 3
+
+> n = n + 4 | n += 4
+
+> n = n - 5 | n -= 5
+
+> n = n * 4 | n *= 4
+
+> n = n / 2 | n /= 2
+
+> n = n ** 2 | n **= 2
+
+> n = n % 5 | n %= 5
+
+`Resultado é 3`
+
+<h4>Incremento:</h4>
+<strong>Para incrementar +1 ou decrementar -1</strong>
+
+>n++ `Somar 1`
+
+>n-- `Subtrair 1`
+
 }
+
