@@ -40,7 +40,7 @@ exemplo: n1.toFixed(2).replace('.',',')
 para converter em real linha de comando
 n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 }
-<h3>OPERADORES<h3>{
+<h3>OPERADORES</h3>{
 
 5 + 2 = 7 // soma dos números
 5 - 2 = 3 // subtração dos números
