@@ -32,9 +32,13 @@ n.toLowerCase()  `tudo para 'minúsculas'`
 Formatar números 
 
 >var n1 = 1543.5
+
 >n1.toFixed(2)  `para ter 2 casa depois do .`
+
 >replace('.',',')  `para ter vírgula no lugar do ponto`
+
 exemplo: 
+
 >n1.toFixed(2).replace('.',',')
 
 para converter em real linha de comando
