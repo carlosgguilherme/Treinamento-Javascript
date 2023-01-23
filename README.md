@@ -4,6 +4,7 @@
 
 <p>(n) É oque eu quero converter.</p> 
 <br>
+
 `String para número`
 `Number.parseInt(n) para número inteiro `
 `Number.parseFloat(n) para número real (com .)`
@@ -11,6 +12,7 @@
 
 <strong>Caso específico use Int ou Float, caso o javascript decida use o Number</strong>
 <br>
+
 `Número para string`
 `String(n)`
 `n.toString()`
