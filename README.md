@@ -53,6 +53,8 @@ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
     Lógicos,
     Ternários</strong>
 
+<h4>Aritméticos</h4>
+
 >5 + 2 = 7  `soma dos números`
 
 >5 - 2 = 3  `subtração dos números`
