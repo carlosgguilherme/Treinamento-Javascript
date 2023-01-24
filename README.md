@@ -194,7 +194,17 @@ Exemplo:
 <hr>
 <h3>Introdução ao DOM</h3>
 
-Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `Nome da Tag`|`TagName`,`id`,`name`, `Nome da classe`|`ClassName` e o `querySelector`
+<h4>Árvore DOM</h4>
+
+
+<img src="https://cdn.discordapp.com/attachments/752685287028818041/1067503025146581124/IMG-20230124-WA0045.jpg" alt="Imagem">
+        
+
+<h4>Selecionando</h4>
+
+Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `Nome da Tag`|`TagName` , `id` , `name` , `Nome da classe`|`ClassName` e o `querySelector`
+
+Ou seja usando sempre por Marca, ID, Nome, Classe e por Seletor
 
 Exemplos:
 
