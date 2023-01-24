@@ -183,10 +183,18 @@ Exemplos:
 > ?
 
 > :
+
+Exemplo:
+
+> idade = 17
+
+> res = idade >= 18 ?'MAIOR':'MENOR'
+
+>'MENOR'
 <hr>
 <h3>Introdução ao DOM</h3>
 
-Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `nome da tag | TagName`,`id`,`name`,`nome da classe | ClassName` e o `querySelector`
+Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo nome da tag | `TagName`,`id`,`name`,nome da classe | `ClassName` e o `querySelector`
 
 Exemplos:
 
