@@ -228,15 +228,15 @@ Exemplos:
 
 Mais Exemplos:
 
-> var p1 = document.getElementsByTagName('div')[1]
+> var p1 = document.getElementsByTagName('tag')[1]
 
 > var p1 = document.geElemntById('id')
 
 > var p1 = document.getElementByName('name')[1]
 
-> var p1 = window.document.querySelector('div.c.')
+> var p1 = window.document.querySelector('tag.class') `ou usando #id`
 
-> var p1 = window.document.querySelectorAll('class')
+> var p1 = window.document.querySelectorAll('tag.class') `ou usando #id`
 
 <h3>Eventos DOM</h3>
 
