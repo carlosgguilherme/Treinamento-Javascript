@@ -203,14 +203,14 @@ DOM é <b>Document Object Model</b>
 
 <img src="https://cdn.discordapp.com/attachments/752685287028818041/1067503025146581124/IMG-20230124-WA0045.jpg" alt="Imagem">
 
-Isso é composto por uma hieraquia do maior para o menor, Sendo o mais alto o Parent e os mais abaixo Child. Sendo window Parent de document(sendo Child de window) e seguindo com a mesma lógica de pai para filho, assim por diante.
+Isso é composto por uma hieraquia do maior para o menor, Sendo o mais alto o Parent e os mais abaixo Child. Logo `window` é Parent de `document`(e ele Child de window) e seguindo com a mesma lógica de pai para filho, assim por diante.
         
 
 <h4>Selecionando</h4>
 
 Usando `.document` com as tag abaixo, para indentificação do elemento onde quero fazer a manipulação, podendo ser feito pelo `Nome da Tag`|`TagName` , `id` , `name` , `Nome da classe`|`ClassName` e o `querySelector`
 
-Ou seja usando sempre por Marca, ID, Nome, Classe e por Seletor
+Ou seja usando sempre por `Marca` , `ID` , `Nome` , `Classe` e por `Seletor`
 
 Exemplos:
 
