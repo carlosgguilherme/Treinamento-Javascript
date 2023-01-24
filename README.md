@@ -238,6 +238,7 @@ Mais Exemplos:
 
 > var p1 = window.document.querySelectorAll('class')
 
+<h3>Eventos DOM</h3>
 
 }
 
