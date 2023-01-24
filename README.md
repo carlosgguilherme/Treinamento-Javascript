@@ -194,7 +194,7 @@ Exemplo:
 <hr>
 <h3>Introdução ao DOM</h3>
 
-Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo nome da tag | `TagName`,`id`,`name`,nome da classe | `ClassName` e o `querySelector`
+Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `Nome da Tag`|`TagName`,`id`,`name`, `Nome da classe`|`ClassName` e o `querySelector`
 
 Exemplos:
 
