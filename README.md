@@ -186,13 +186,19 @@ Exemplos:
 <hr>
 <h3>Introdução ao DOM</h3>
 
-<p>usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `nome da tag | TagName`,`id`,`name`,`nome da classe | ClassName` e o `querySelector`</p>
+Usando `.document` com as tag abaixo, para indentificação de onde quero fazer a manipulação, podendo ser feito pelo `nome da tag | TagName`,`id`,`name`,`nome da classe | ClassName` e o `querySelector`
+
 Exemplos:
 
 >getElementByTagName 
+
 >getElementById 
+
 >getElementByName 
+
 >getElementByClassName
+
 >querySelector 
+
 }
 
