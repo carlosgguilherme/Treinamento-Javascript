@@ -198,15 +198,15 @@ Usando `.document` com as tag abaixo, para indentificação de onde quero fazer 
 
 Exemplos:
 
->getElementByTagName 
+>.getElementByTagName 
 
->getElementById 
+>.getElementById 
 
->getElementByName 
+>.getElementByName 
 
->getElementByClassName
+>.getElementByClassName
 
->querySelector 
+>.querySelector 
 
 }
 
