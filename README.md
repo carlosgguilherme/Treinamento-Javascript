@@ -194,6 +194,9 @@ Exemplo:
 <hr>
 <h3>Introdução ao DOM</h3>
 
+<p>Oque é DOM?</p>
+DOM é <underline>Document Object Model</underline>
+
 <h4>Árvore DOM</h4>
 
 
