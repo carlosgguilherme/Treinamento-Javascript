@@ -243,5 +243,21 @@ Mais Exemplos:
 <h4>TRABALHANDO NISSO...</h4>
 <hr>
 <h3>Condições</h3>
+
+>if() `Se`
+
+>else() `Senão`
+
+>ifelse()
+
+Exemplo:
+
+>var vel = 60
+>    if(vel > 60){
+>        console.log('Você ultrapassou a velocidade permitida. MULTADO')
+>    }
+>    else{
+>        console.log('Diriga com cuidado e use cinto de segurança!')
+>    }
 }
 
