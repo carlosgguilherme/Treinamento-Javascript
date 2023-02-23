@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page idade :)</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <style>
+    body {
+      font: normal 15pt Arial;
+    }
+  </style>
+  <body>
+    <header>
+      <h1>Titulo aqui</h1>
+    </header>
+    <section>
+      <div>
+        <p>
+          Ano de nascimento
+          <input type="number" name="ano" id="ano" min="0" />
+        </p>
+        <p>
+          Sexo
+          <select name="Genero" id="genero">
+            <option value="0" selected>Selecione</option>
+            <option value="1">Masculino</option>
+            <option value="2">Feminino</option>
+          </select>
+        </p>
+        <input
+          id="button"
+          type="button"
+          value="Verificar"
+          onclick="verificar()"
+        />
+      </div>
+      <div id="res"></div>
+    </section>
+    <footer>
+      <p>E-idade &copy; 2023</p>
+    </footer>
+    <script src="javascript.js"></script>
+  </body>
+</html>

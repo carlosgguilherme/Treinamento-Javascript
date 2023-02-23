@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="exec010.js"></script>
+    <style>
+      body {
+        font: normal 15pt Arial;
+      }
+
+      .bloco {
+        margin: auto;
+        width: 450px;
+        height: 300px;
+        background: rgb(107, 235, 107);
+        text-align: center;
+        border-radius: 5%;
+        box-shadow: 2px 2px 30px 1px rgba(128, 128, 128, 0.661);
+        
+      }
+      .conteudo {
+        padding: 2%;
+
+      }
+      .botao {
+   
+        height: auto;
+        
+      }
+      #caixa{
+        margin-bottom: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bloco">
+      <div id="content" class="conteudo">
+        <h1>Diga o seu pais e saiba</h1>
+      </div>
+      <div>
+        <h1 id="res"></h1>
+      </div>
+      <div class="botao conteduo">
+        <input id="caixa" type="text" placeholder="Seu país" />
+        <input type="button" value="Descubra" onclick="calcular()" />
+      </div>
+    </div>
+    <script src="exec010.js"></script>
+  </body>
+</html>
