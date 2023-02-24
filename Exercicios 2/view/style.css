@@ -16,15 +16,18 @@ section {
   box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.286);
 }
 #button {
+    background-color: transparent;
     margin: 10px 10px 10px 10px;
     padding: 10px 60px;
     border: hidden;
     border-radius: 30px;
     font-size: 15pt;
     font-weight: bold;
-    transition: 450ms;
+    transition: 400ms;
   }
   #button:hover {
+    cursor: pointer;
+   
     background-color: rgb(152, 93, 208);
     color: white;
   }
@@ -36,4 +39,7 @@ footer {
 section div {
   text-align: center;
   padding: 10px;
+}
+img#foto{
+  padding-top: 20px;
 }
